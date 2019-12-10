@@ -1,5 +1,5 @@
 # ShinyCrypto
-Global Cryptocurrency Visualization Platform.
+## Global Cryptocurrency Visualization Platform.
 
 GUI is still in its infancy.
 -Implemented pulling from current coinmarketcap data
