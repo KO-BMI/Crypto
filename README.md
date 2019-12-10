@@ -2,6 +2,9 @@
 Global Cryptocurrency Visualization Platform.
 
 GUI is still in its infancy.
--stay tuned-
+-Implemented pulling from current coinmarketcap data
+-Implemented Plotly Feature
+
+-stay tuned for more-
 
 ```
